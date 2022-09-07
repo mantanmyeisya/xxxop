@@ -14,7 +14,7 @@
         <meta content="Vidio" property="og:site_name" />
         <meta property="og:title" content="Vidio - Nonton Tv Streaming, Serial, Sinetron &amp; Sepak Bola" />
         <meta property="og:description" content="Vidio adalah layanan video streaming dengan berbagai konten tv streaming, film, sinetron, original series dan olahraga seperti Liga 1, Champions serta Eropa" /><meta property="og:type" content="website" />
-        <meta property="og:image" content="https://cdn-production-thumbor-vidio.akamaized.net/DQco7DkUm-qF3V5eayIUHvssebE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/52/home-page-d9e69d.jpg" />
+        <meta property="og:image" content="https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2022090105" />
         <meta content="9a2de3fdafe8d84c3a432aeac902ee0c64d3a09c3bad35803ed103383d78084b" name="ahrefs-site-verification" />
         <link rel="stylesheet" href="css/style.css">
     </head>
